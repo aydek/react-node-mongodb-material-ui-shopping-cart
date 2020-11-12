@@ -14,7 +14,7 @@ const orderRoutes = require("./routes/orderRoutes");
 const User = require("./models/User");
 const privates = require("./config/privates");
 
-
+///test @aydek
 const publicPath = path.join(__dirname, "client", "public");
 const port = process.env.PORT || 5000;
 
